@@ -19,6 +19,10 @@ Sistem manajemen inventaris dan penjualan cerdas berbasis web untuk UAS Pemrogra
 
 ---
 
+<img width="1437" height="784" alt="Screenshot 2026-07-18 at 09 37 05" src="https://github.com/user-attachments/assets/03fe6181-e84a-4507-9320-fd1214794618" />
+
+
+
 ## Flow Aplikasi
 
 ```
